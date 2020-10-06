@@ -1,0 +1,18 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  color: red;
+  font-size: 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+}
+
+img {
+  max-width: 100%;
+  width: 2000;
+  height: 1333;
+}
+p {
+  font-size: 36px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
